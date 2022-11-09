@@ -1,0 +1,1 @@
+4*(kyi - I*kyr)*(kyi + I*kyr)*(mf + pi)*(kyi**4*mf + 2*kyi**2*kyr**2*mf + kyr**4*mf - kx**2*kyi**2*pi + kyi**4*pi + kx**2*kyr**2*pi + 2*kyi**2*kyr**2*pi + kyr**4*pi + 2*kx**2*kyi*kyr*pr) + 4*(kyi - I*kyr)*(kyi + I*kyr)*(mf + pi)*(-2*kyi**2*mf + 2*kyr**2*mf + kx**2*pi - kyi**2*pi + kyr**2*pi - 2*kyi*kyr*pr)*s**2 + 4*(kyi - I*kyr)*(kyi + I*kyr)*mf*(mf + pi)*s**4
